@@ -50,20 +50,19 @@ Setting up profiles on:
 - Created a prevention checklist for online safety  
 
 ---
----
 ## 📁 Repository Structure
+
+```
 digital-literacy-project/
-│
 ├── README.md
 ├── report/
-│ └── Project_Report.pdf
+│   └── Project_Report.pdf
 ├── task-1-presentation/
 ├── task-2-portfolio/
 ├── task-3-platforms/
 ├── task-4-email-etiquette/
 ├── task-5-cybercrime/
----
-
+```
 
 
 ## Tools & Platforms Used
