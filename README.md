@@ -50,7 +50,7 @@ Setting up profiles on:
 - Created a prevention checklist for online safety  
 
 ---
-
+---
 ## 📁 Repository Structure
 digital-literacy-project/
 │
@@ -62,7 +62,7 @@ digital-literacy-project/
 ├── task-3-platforms/
 ├── task-4-email-etiquette/
 ├── task-5-cybercrime/
-
+---
 
 
 
