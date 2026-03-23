@@ -10,8 +10,7 @@
 ---
 
 ## 📌 Project Overview
-This project was completed as part of the Digital Literacy course to help me better understand how to use digital tools in a smart and responsible way. Through this project.
-
+This project was completed as part of the Digital Literacy course it helped me by letting me to better understand how to use digital tools in a smart and responsible way.
 It consists of five tasks, including creating an infographic using canva, setting up a digital portfolio, exploring online platforms, writing professional emails, and understanding cybercrime and its prevention.
 ---
 
