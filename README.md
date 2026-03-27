@@ -16,7 +16,7 @@ This project was completed as part of the Digital Literacy course it helped me b
 It consists of five tasks, including creating an infographic using canva, setting up a digital portfolio, exploring online platforms, writing professional emails, and understanding cybercrime and its prevention.
 
 
-## 📊 Task Summary
+##  Task Summary
 
 ### Task 1: Digital Literacy Infographic
 Created a one-page infographic using Canva explaining digital literacy, safe internet practices, and useful digital tools.
@@ -50,7 +50,7 @@ Setting up profiles on:
 - Created a prevention checklist for online safety  
 
 ---
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 digital-literacy-project/
@@ -75,7 +75,7 @@ digital-literacy-project/
 
 
 
-## 📚 References
+## References
 - https://www.canva.com  
 - https://github.com  
 - https://www.linkedin.com  
@@ -84,3 +84,6 @@ digital-literacy-project/
 - https://cybercrime.gov.in  
 
 ---
+## 🧑‍💻 Author
+**Akshat Rajput**
+
