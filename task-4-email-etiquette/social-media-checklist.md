@@ -1,6 +1,6 @@
-#Social Media Do's and Don'ts for College Students
+**Social Media Do's and Don'ts for College Students**
 
-##Do's-
+**Do's-**
 ```
 ~Maintain a professional and respectful tone in your posts and comments.
 ~Protect your privacy by adjusting your account settings and limiting personal information access.
@@ -8,7 +8,7 @@
 ~Use it to build connections, learn new skills and explore.
 ~Share useful and positive content that reflects your interest.
 ```
-##Don'ts-
+**Don'ts-**
 ```
 ~Do not share sensitive information like address, phone number.
 ~Avoid posting offensive, abusive and inappropriate content.
