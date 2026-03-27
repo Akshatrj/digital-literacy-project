@@ -1,4 +1,4 @@
-Prevention Checklist:
+**Prevention Checklist:**
 
 -Never share your OTP, UPI Pin, Passwords, or banking details with anyone, even if they claim they are Bank
 
@@ -16,7 +16,7 @@ Prevention Checklist:
 
 -Regular Check your Banking Statements and transaction history to detect any unauthorized activity.
 
-Reporting Cybercrime:
+**Reporting Cybercrime:**
 
 -Report incidents immediately at: https://cybercrime.gov.in
 
