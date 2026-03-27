@@ -1,6 +1,6 @@
 # Digital Literacy Project
 
-## 👤 Details
+## Details
 - Name: Akshat Rajput
 - Registration Number: 25BCE10874
 - Branch: B.Tech CSE
@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 
 This project was completed as part of the Digital Literacy course it helped me by letting me to better understand how to use digital tools in a smart and responsible way.
@@ -18,12 +18,12 @@ It consists of five tasks, including creating an infographic using canva, settin
 
 ## 📊 Task Summary
 
-### 🔹 Task 1: Digital Literacy Infographic
+### Task 1: Digital Literacy Infographic
 Created a one-page infographic using Canva explaining digital literacy, safe internet practices, and useful digital tools.
 
 ---
 
-### 🔹 Task 2: Digital Portfolio
+### Task 2: Digital Portfolio
 Setting up profiles on:
 - GitHub
 - LinkedIn
@@ -31,7 +31,7 @@ Setting up profiles on:
 
 ---
 
-### 🔹 Task 3: Platforms
+### Task 3: Platforms
 - Did a challenge on HackerRank  
 - Created a Google Form for digital literacy awareness  
 
@@ -39,13 +39,13 @@ Setting up profiles on:
 
 ---
 
-### 🔹 Task 4: Email Etiquette
+### Task 4: Email Etiquette
 - Wrote two professional emails while following etiquette
 - Created a social media Do’s and Don’ts checklist  
 
 ---
 
-### 🔹 Task 5: Cybercrime Awareness
+### Task 5: Cybercrime Awareness
 - Case study on UPI/Online Payment Fraud  
 - Created a prevention checklist for online safety  
 
